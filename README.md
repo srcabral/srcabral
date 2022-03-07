@@ -7,7 +7,7 @@
 
 🎓 I have a degree in Computer Science from UFG (Federal University of Goiás) and I am studying Database Administration at Senac-Goiás;
 
-📚 I am currently learning about Android development as I want to start my professional career in this area.
+📚 I am currently learning about **Android development** as I want to start my professional career in this area.
 
 ## Knowledge
 
