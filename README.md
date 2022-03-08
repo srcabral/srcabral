@@ -1,5 +1,5 @@
 # Hello everyone!! 👋
-### My name is Sergio Cabral and welcome to my Github profile!! ✨
+### My name is Sergio Cabral, welcome to my Github profile!! ✨
 
 ## Aboute me
 
