@@ -5,7 +5,7 @@
 
 😏 I'm 29 years old, I'm from Goiânia - Góias - Brazil;
 
-🎓 I have a degree in Computer Science from UFG (Federal University of Goiás) and I am studying Database Administration at Senac-Goiás;
+🎓 I have a degree in Computer Science from UFG (Federal University of Goiás) and I studied Database Administration at Senac-Goiás;
 
 📚 I am currently learning about **Android development** as I want to start my professional career in this area.
 
