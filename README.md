@@ -3,11 +3,11 @@
 
 ## Aboute me
 
-😏 I'm 29 years old, I'm from Goiânia - Góias - Brazil;
+😏 I'm 29 years old and I'm from Goiânia - Góias - Brazil;
 
-🎓 I have a degree in Computer Science from UFG (Federal University of Goiás) and I studied Database Administration at Senac-Goiás;
+🎓 Bachelor in Computer Science from UFG (Federal University of Goiás);
 
-📚 I currently work as an **Android developer** at NTT DATA and I want to become an expert in this area of mobile development.
+📚 Currently work as an **Android developer** at NTT DATA and I want to become an expert in this area of mobile development.
 
 ## Skills
 
