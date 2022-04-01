@@ -7,7 +7,7 @@
 
 🎓 I have a degree in Computer Science from UFG (Federal University of Goiás) and I studied Database Administration at Senac-Goiás;
 
-📚 Currently I am **Android developer** at NTT DATA Brazil
+📚 **Android developer** 
 
 ## Knowledge
 
