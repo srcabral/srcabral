@@ -7,7 +7,7 @@
 
 🎓 Bachelor in Computer Science from UFG (Federal University of Goiás);
 
-📚 Currently work as an **Android developer** at NTT DATA and I want to become an expert in this area of mobile development.
+📚 Currently study **Android developer** and I want to become an expert in this area of mobile development.
 
 ## Skills
 
